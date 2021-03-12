@@ -12,5 +12,5 @@ A collection of resources I’ve found helpful or interesting.  Mostly free digi
 
 - [Reinforcement Learning 2nd Edition](http://incompleteideas.net/book/RLbook2020.pdf)
 
-
+- [Attention Is All You  Need](https://www.youtube.com/watch?v=iDulhoQ2pro) (Summary by Yannic Kilcher, also read the [paper](https://arxiv.org/pdf/1706.03762.pdf))
 
