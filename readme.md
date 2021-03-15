@@ -14,3 +14,4 @@ A collection of resources I’ve found helpful or interesting.  Mostly free digi
 
 - [Attention Is All You  Need](https://www.youtube.com/watch?v=iDulhoQ2pro) (Summary by Yannic Kilcher, also read the [paper](https://arxiv.org/pdf/1706.03762.pdf))
 
+- [An image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://www.youtube.com/watch?v=TrdevFK_am4) (Summary by Yannic Kilcker, also read the [paper](https://arxiv.org/abs/2010.11929))
